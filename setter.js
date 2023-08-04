@@ -18,7 +18,7 @@ const robot = {
     }
   };
 
-  robot.numOfSensors = 100; // reassigns number of sensors
+  robot.numOfSensors = 100; // reassigns number of sensors from 15 to 100
   console.log(robot.numOfSensors);
   
   
